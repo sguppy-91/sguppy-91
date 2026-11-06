@@ -10,5 +10,5 @@ Custom Python workflow for processing and analysing countermovement jump force-t
 Custom Python workflow for processing and analysing isometric mid-thigh pull force-time curve data
 
 ## Current Development
-My research software is developed primarily for my own academic workflows. Project are released publicly where they may be useful to others or are included in one of my publications.
+My research software is developed primarily for my own academic workflows. Projects are released publicly where they may be useful to others or are included in one of my publications.
 
