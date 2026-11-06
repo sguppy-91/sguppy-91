@@ -5,5 +5,6 @@ My GitHub profile is a collection of tools developed through my academic work. T
 ## Research Tools
 **cmj-processor**
 Custom Python workflow for processing and analysing countermovement jump force-time curve data
+
 **imtp-processor**
 Custom Python workflow for processing and analysing isometric mid-thigh pull force-time curve data
