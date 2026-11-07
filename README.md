@@ -6,10 +6,10 @@ My GitHub profile is a collection of tools developed through my academic work. T
 
 ## Research Tools
 
-**[cmj-processor](https://github.com/sguppy-91/cmj-processor):**
+**[cmj-processor](https://github.com/sguppy-91/cmj-processor)**
 
 - Custom Python workflow for processing and analysing countermovement jump force-time curve data
 
-**[imtp-processor](https://github.com/sguppy-91/imtp-processor):**
+**[imtp-processor](https://github.com/sguppy-91/imtp-processor)**
 
 - Custom Python workflow for processing and analysing isometric mid-thigh pull force-time curve data
