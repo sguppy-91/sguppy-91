@@ -16,4 +16,4 @@ My GitHub profile is a collection of tools developed through my academic work. T
 
 **agreeR** (Not yet public)
 
-- Custom R package that automates statistical workflows that I frequently use as part of my research investigating measurement validity in sport and exercise science.
+- Custom R package that automates statistical workflows I frequently use as part of my research investigating measurement validity in sport and exercise science.
