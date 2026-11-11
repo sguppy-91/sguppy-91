@@ -13,3 +13,7 @@ My GitHub profile is a collection of tools developed through my academic work. T
 **[imtp-processor](https://github.com/sguppy-91/imtp-processor)**
 
 - Custom Python workflow for processing and analysing isometric mid-thigh pull force-time curve data
+
+**agreeR** (Not yet public)
+
+- Custom R package that automates statistical workflows that I frequently use as part of my research investigating measurement validity in sport and exercise science.
