@@ -14,6 +14,6 @@ My GitHub profile is a collection of tools developed through my academic work. T
 
 - Custom Python workflow for processing and analysing isometric mid-thigh pull force-time curve data
 
-**agreeR** (Not yet public)
+**[agreeR](https:://github.com/sguppy-91/agreeR)**
 
 - Custom R package that automates statistical workflows I frequently use as part of my research investigating measurement validity in sport and exercise science.
